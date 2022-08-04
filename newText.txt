@@ -1,6 +1,6 @@
 git init
 
-git pull https://github.com/gabrielhcamacho/Arquitetura-de-Software
+git pull https://github.com/gabrielhcamacho/Controle-de-Versao
 
 touch newText.txt
 
